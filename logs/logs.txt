@@ -1,0 +1,197 @@
+Data: 10-10-2022 13:43:41 | Usuário: Gustavo | ID: 5 | Inseriu um novo produto:
+Data: 10-10-2022 13:43:56 | Usuário: Gustavo | ID: 5 | Alterou um produto existente:
+Data: 10-10-2022 13:44:00 | Usuário: Gustavo | ID: 5 | Deletou um produto:
+Data: 10-10-2022 13:45:38 | Usuário: Gustavo | ID: 5 | Cadastrou um novo contato
+Data: 10-10-2022 13:45:51 | Usuário: Gustavo | ID: 5 | Alterou um contato
+Data: 10-10-2022 13:45:55 | Usuário: Gustavo | ID: 5 | Deletou um contato
+Data: 10-10-2022 13:47:34 | Usuário: Gustavo | ID: 5 | Inseriu um novo projeto:
+Data: 10-10-2022 13:47:44 | Usuário: Gustavo | ID: 5 | Alterou um projeto existente:
+Data: 10-10-2022 13:47:47 | Usuário: Gustavo | ID: 5 | Deletou um projeto:
+Data: 10-10-2022 13:49:14 | Usuário: Gustavo | ID: 5 | Alterou um projeto existente:
+Data: 10-10-2022 13:49:51 | Usuário: Gustavo | ID: 5 | Inseriu um novo projeto:
+Data: 10-10-2022 13:49:59 | Usuário: Gustavo | ID: 5 | Alterou um projeto existente:
+Data: 10-10-2022 13:50:05 | Usuário: Gustavo | ID: 5 | Deletou um projeto:
+Data: 10-10-2022 14:06:01 | Usuário: Gustavo | ID: 5 | Inseriu um arquivo CVS com sucesso:
+Data: 10-10-2022 14:06:05 | Usuário: Gustavo | ID: 5 | Deletou um produto:
+Data: 10-10-2022 14:06:08 | Usuário: Gustavo | ID: 5 | Deletou um produto:
+Data: 10-10-2022 14:06:12 | Usuário: Gustavo | ID: 5 | Deletou um produto:
+Data: 13-10-2022 16:28:44 | Usuário: Gustavo | ID: 5 | Cadastrou um novo usuário no sistema
+Data: 13-10-2022 16:48:49 | Usuário: Victor | ID: 14 | Cadastrou um novo contato
+Data: 13-10-2022 16:49:14 | Usuário: Victor | ID: 14 | Alterou um contato
+Data: 13-10-2022 16:49:27 | Usuário: Victor | ID: 14 | Alterou um contato
+Data: 14-10-2022 07:54:02 | Usuário: Gustavo | ID: 5 | Alterou um produto existente:
+Data: 14-10-2022 07:54:43 | Usuário: Gustavo | ID: 5 | Alterou um produto existente:
+Data: 14-10-2022 07:55:11 | Usuário: Gustavo | ID: 5 | Alterou um produto existente:
+Data: 14-10-2022 08:02:39 | Usuário: Gustavo | ID: 5 | Deletou um produto:
+Data: 14-10-2022 08:02:53 | Usuário: Gustavo | ID: 5 | Deletou um produto:
+Data: 14-10-2022 15:32:55 | Usuário: Gustavo | ID: 5 | Alterou um produto existente:
+Data: 14-10-2022 15:59:04 | Usuário: Gustavo | ID: 5 | Inseriu um novo produto:
+Data: 14-10-2022 16:01:10 | Usuário: Gustavo | ID: 5 | Inseriu um novo produto:
+Data: 14-10-2022 16:03:11 | Usuário: Gustavo | ID: 5 | Inseriu um novo produto:
+Data: 14-10-2022 16:06:37 | Usuário: Gustavo | ID: 5 | Inseriu um novo produto:
+Data: 14-10-2022 16:08:08 | Usuário: Gustavo | ID: 5 | Inseriu um novo produto:
+Data: 14-10-2022 16:09:22 | Usuário: Gustavo | ID: 5 | Inseriu um novo produto:
+Data: 18-10-2022 10:40:04 | Usuário: Gustavo | ID: 5 | Alterou um produto existente:
+Data: 18-10-2022 10:42:00 | Usuário: Gustavo | ID: 5 | Inseriu um novo produto:
+Data: 18-10-2022 13:41:52 | Usuário: Gustavo | ID: 5 | Inseriu um novo produto:
+Data: 18-10-2022 13:42:31 | Usuário: Gustavo | ID: 5 | Inseriu um novo produto:
+Data: 18-10-2022 13:43:09 | Usuário: Gustavo | ID: 5 | Inseriu um novo produto:
+Data: 18-10-2022 13:44:09 | Usuário: Gustavo | ID: 5 | Inseriu um novo produto:
+Data: 18-10-2022 13:44:38 | Usuário: Gustavo | ID: 5 | Inseriu um novo produto:
+Data: 18-10-2022 13:46:02 | Usuário: Gustavo | ID: 5 | Alterou um produto existente:
+Data: 18-10-2022 13:46:10 | Usuário: Gustavo | ID: 5 | Alterou um produto existente:
+Data: 18-10-2022 13:46:24 | Usuário: Gustavo | ID: 5 | Alterou um produto existente:
+Data: 18-10-2022 13:46:32 | Usuário: Gustavo | ID: 5 | Alterou um produto existente:
+Data: 18-10-2022 13:46:42 | Usuário: Gustavo | ID: 5 | Alterou um produto existente:
+Data: 18-10-2022 13:48:34 | Usuário: Gustavo | ID: 5 | Inseriu um novo produto:
+Data: 18-10-2022 13:49:11 | Usuário: Gustavo | ID: 5 | Inseriu um novo produto:
+Data: 18-10-2022 13:49:37 | Usuário: Gustavo | ID: 5 | Alterou um produto existente:
+Data: 18-10-2022 13:54:34 | Usuário: Gustavo | ID: 5 | Inseriu um novo produto:
+Data: 18-10-2022 17:38:20 | Usuário: Gustavo | ID: 5 | Cadastrou um novo contato
+Data: 18-10-2022 17:38:25 | Usuário: Gustavo | ID: 5 | Deletou um contato
+Data: 18-10-2022 17:38:53 | Usuário: Gustavo | ID: 5 | Deletou um contato
+Data: 18-10-2022 17:38:54 | Usuário: Gustavo | ID: 5 | Deletou um contato
+Data: 18-10-2022 17:38:54 | Usuário: Gustavo | ID: 5 | Deletou um contato
+Data: 18-10-2022 17:38:54 | Usuário: Gustavo | ID: 5 | Deletou um contato
+Data: 18-10-2022 17:38:54 | Usuário: Gustavo | ID: 5 | Deletou um contato
+Data: 18-10-2022 17:38:55 | Usuário: Gustavo | ID: 5 | Deletou um contato
+Data: 18-10-2022 17:38:55 | Usuário: Gustavo | ID: 5 | Deletou um contato
+Data: 18-10-2022 17:45:19 | Usuário: Gustavo | ID: 5 | Cadastrou um novo contato
+Data: 18-10-2022 17:45:48 | Usuário: Gustavo | ID: 5 | Alterou um contato
+Data: 18-10-2022 17:45:57 | Usuário: Gustavo | ID: 5 | Deletou um contato
+Data: 19-10-2022 13:55:32 | Usuário: Gustavo | ID: 5 | Alterou um produto existente:
+Data: 21-10-2022 14:49:45 | Usuário: Gustavo | ID: 5 | Alterou um produto existente:
+Data: 21-10-2022 14:49:58 | Usuário: Gustavo | ID: 5 | Alterou um produto existente:
+Data: 25-10-2022 10:22:51 | Usuário: Victor | ID: 14 | Inseriu um novo projeto:
+Data: 25-10-2022 10:22:55 | Usuário: Victor | ID: 14 | Deletou um projeto:
+Data: 26-10-2022 10:18:27 | Usuário: Gustavo | ID: 5 | Alterou um produto existente:
+Data: 26-10-2022 10:20:40 | Usuário: Gustavo | ID: 5 | Alterou um produto existente:
+Data: 26-10-2022 10:21:11 | Usuário: Gustavo | ID: 5 | Alterou um produto existente:
+Data: 31-10-2022 08:04:00 | Usuário: Gustavo | ID: 5 | Inseriu um novo produto:
+Data: 31-10-2022 08:04:26 | Usuário: Gustavo | ID: 5 | Inseriu um novo produto:
+Data: 31-10-2022 08:04:55 | Usuário: Gustavo | ID: 5 | Inseriu um novo produto:
+Data: 31-10-2022 08:11:48 | Usuário: Gustavo | ID: 5 | Alterou um produto existente:
+Data: 07-11-2022 14:57:36 | Usuário: Gustavo | ID: 5 | Alterou um ramal existente:
+Data: 07-11-2022 14:58:27 | Usuário: Gustavo | ID: 5 | Alterou um ramal existente:
+Data: 07-11-2022 14:59:22 | Usuário: Gustavo | ID: 5 | Alterou um ramal existente:
+Data: 07-11-2022 15:02:15 | Usuário: Gustavo | ID: 5 | Deletou um ramal:
+Data: 07-11-2022 15:02:18 | Usuário: Gustavo | ID: 5 | Deletou um ramal:
+Data: 07-11-2022 15:02:19 | Usuário: Gustavo | ID: 5 | Deletou um ramal:
+Data: 07-11-2022 15:02:21 | Usuário: Gustavo | ID: 5 | Deletou um ramal:
+Data: 07-11-2022 15:02:23 | Usuário: Gustavo | ID: 5 | Deletou um ramal:
+Data: 07-11-2022 15:02:24 | Usuário: Gustavo | ID: 5 | Deletou um ramal:
+Data: 07-11-2022 15:02:25 | Usuário: Gustavo | ID: 5 | Deletou um ramal:
+Data: 07-11-2022 15:02:50 | Usuário: Gustavo | ID: 5 | Incluiu um novo ramal:
+Data: 07-11-2022 15:03:05 | Usuário: Gustavo | ID: 5 | Incluiu um novo ramal:
+Data: 07-11-2022 15:04:14 | Usuário: Gustavo | ID: 5 | Incluiu um novo ramal:
+Data: 07-11-2022 15:05:36 | Usuário: Gustavo | ID: 5 | Alterou um ramal existente:
+Data: 07-11-2022 15:05:43 | Usuário: Gustavo | ID: 5 | Alterou um ramal existente:
+Data: 07-11-2022 15:12:34 | Usuário: Gustavo | ID: 5 | Alterou um contato
+Data: 07-11-2022 15:12:46 | Usuário: Gustavo | ID: 5 | Alterou um contato
+Data: 21-11-2022 08:12:19 | Usuário: Gustavo | ID: 5 | Inseriu um novo produto:
+Data: 21-11-2022 08:13:49 | Usuário: Gustavo | ID: 5 | Inseriu um novo produto:
+Data: 21-11-2022 08:14:13 | Usuário: Gustavo | ID: 5 | Alterou um produto existente:
+Data: 28-11-2022 10:18:28 | Usuário: Gustavo | ID: 5 | Alterou a senha de um usuário do sistema
+Data: 28-11-2022 10:20:11 | Usuário: Victor | ID: 14 | Alterou com sucesso a senha da sua própria conta
+Data: 29-11-2022 07:54:45 | Usuário: Gustavo | ID: 5 | Alterou um projeto existente:
+Data: 29-11-2022 07:59:24 | Usuário: Gustavo | ID: 5 | Alterou um projeto existente:
+Data: 29-11-2022 07:59:59 | Usuário: Gustavo | ID: 5 | Alterou um projeto existente:
+Data: 29-11-2022 15:35:06 | Usuário: Gustavo | ID: 5 | Inseriu um arquivo CVS com sucesso:
+Data: 29-11-2022 15:35:16 | Usuário: Gustavo | ID: 5 | Deletou um produto:
+Data: 29-11-2022 15:35:22 | Usuário: Gustavo | ID: 5 | Deletou um produto:
+Data: 29-11-2022 15:35:30 | Usuário: Gustavo | ID: 5 | Alterou um produto existente:
+Data: 29-11-2022 15:35:36 | Usuário: Gustavo | ID: 5 | Deletou um produto:
+Data: 02-12-2022 10:56:28 | Usuário: Gustavo | ID: 5 | Editou uma questão no FAQ:
+Data: 02-12-2022 10:56:42 | Usuário: Gustavo | ID: 5 | Incluiu nova questão ao FAQ:
+Data: 02-12-2022 10:57:58 | Usuário: Gustavo | ID: 5 | Editou uma questão no FAQ:
+Data: 14-12-2022 17:47:56 | Usuário: Gustavo | ID: 5 | Incluiu nova questão ao FAQ:
+Data: 14-12-2022 17:48:53 | Usuário: Gustavo | ID: 5 | Editou uma questão no FAQ:
+Data: 26-12-2022 15:03:46 | Usuário: Gustavo | ID: 5 | Alterou um ramal existente:
+Data: 26-12-2022 15:04:30 | Usuário: Gustavo | ID: 5 | Deletou um contato
+Data: 26-12-2022 15:06:35 | Usuário: Gustavo | ID: 5 | Cadastrou um novo contato
+Data: 26-12-2022 15:07:19 | Usuário: Gustavo | ID: 5 | Cadastrou um novo contato
+Data: 26-12-2022 15:08:44 | Usuário: Gustavo | ID: 5 | Cadastrou um novo contato
+Data: 26-12-2022 15:09:32 | Usuário: Gustavo | ID: 5 | Alterou um ramal existente:
+Data: 26-12-2022 15:09:58 | Usuário: Gustavo | ID: 5 | Deletou uma uma escala:
+Data: 26-12-2022 15:09:59 | Usuário: Gustavo | ID: 5 | Deletou uma uma escala:
+Data: 26-12-2022 15:10:00 | Usuário: Gustavo | ID: 5 | Deletou uma uma escala:
+Data: 26-12-2022 15:10:00 | Usuário: Gustavo | ID: 5 | Deletou uma uma escala:
+Data: 26-12-2022 15:10:00 | Usuário: Gustavo | ID: 5 | Deletou uma uma escala:
+Data: 26-12-2022 15:10:00 | Usuário: Gustavo | ID: 5 | Deletou uma uma escala:
+Data: 26-12-2022 15:10:01 | Usuário: Gustavo | ID: 5 | Deletou uma uma escala:
+Data: 26-12-2022 15:10:01 | Usuário: Gustavo | ID: 5 | Deletou uma uma escala:
+Data: 26-12-2022 15:10:01 | Usuário: Gustavo | ID: 5 | Deletou uma uma escala:
+Data: 26-12-2022 15:10:01 | Usuário: Gustavo | ID: 5 | Deletou uma uma escala:
+Data: 26-12-2022 15:10:02 | Usuário: Gustavo | ID: 5 | Deletou uma uma escala:
+Data: 26-12-2022 15:10:02 | Usuário: Gustavo | ID: 5 | Deletou uma uma escala:
+Data: 26-12-2022 15:10:02 | Usuário: Gustavo | ID: 5 | Deletou uma uma escala:
+Data: 26-12-2022 15:10:03 | Usuário: Gustavo | ID: 5 | Deletou uma uma escala:
+Data: 26-12-2022 15:10:48 | Usuário: Gustavo | ID: 5 | Inseriu uma nova escala:
+Data: 26-12-2022 15:12:09 | Usuário: Gustavo | ID: 5 | Inseriu uma nova escala:
+Data: 26-12-2022 15:12:26 | Usuário: Gustavo | ID: 5 | Inseriu uma nova escala:
+Data: 26-12-2022 15:12:39 | Usuário: Gustavo | ID: 5 | Alterou uma escala existente:
+Data: 26-12-2022 15:12:59 | Usuário: Gustavo | ID: 5 | Inseriu uma nova escala:
+Data: 26-12-2022 15:13:16 | Usuário: Gustavo | ID: 5 | Inseriu uma nova escala:
+Data: 26-12-2022 15:13:33 | Usuário: Gustavo | ID: 5 | Inseriu uma nova escala:
+Data: 26-12-2022 15:14:02 | Usuário: Gustavo | ID: 5 | Inseriu uma nova escala:
+Data: 26-12-2022 15:14:22 | Usuário: Gustavo | ID: 5 | Inseriu uma nova escala:
+Data: 26-12-2022 15:14:39 | Usuário: Gustavo | ID: 5 | Inseriu uma nova escala:
+Data: 26-12-2022 15:15:00 | Usuário: Gustavo | ID: 5 | Inseriu uma nova escala:
+Data: 26-12-2022 15:15:06 | Usuário: Gustavo | ID: 5 | Alterou uma escala existente:
+Data: 26-12-2022 15:15:22 | Usuário: Gustavo | ID: 5 | Inseriu uma nova escala:
+Data: 26-12-2022 15:15:41 | Usuário: Gustavo | ID: 5 | Inseriu uma nova escala:
+Data: 26-12-2022 15:19:18 | Usuário: Gustavo | ID: 5 | Alterou um contato
+Data: 26-12-2022 15:20:10 | Usuário: Gustavo | ID: 5 | Alterou um projeto existente:
+Data: 26-12-2022 15:21:02 | Usuário: Gustavo | ID: 5 | Alterou um projeto existente:
+Data: 26-12-2022 15:22:08 | Usuário: Gustavo | ID: 5 | Alterou um projeto existente:
+Data: 26-12-2022 15:23:04 | Usuário: Gustavo | ID: 5 | Inseriu um novo projeto:
+Data: 27-12-2022 08:14:13 | Usuário: Gustavo | ID: 5 | Inseriu um novo produto:
+Data: 27-12-2022 11:29:38 | Usuário: Gustavo | ID: 5 | Deletou um usuário no sistema
+Data: 28-12-2022 14:37:13 | Usuário: Gustavo | ID: 5 | Cadastrou um novo usuário no sistema
+Data: 28-12-2022 14:45:35 | Usuário: Gustavo | ID: 5 | Cadastrou um novo usuário no sistema
+Data: 28-12-2022 14:51:47 | Usuário: Gustavo | ID: 5 | Cadastrou um novo usuário no sistema
+Data: 28-12-2022 15:05:36 | Usuário: Gustavo | ID: 5 | Inseriu um arquivo CVS com sucesso:
+Data: 28-12-2022 15:05:47 | Usuário: Gustavo | ID: 5 | Deletou um produto:
+Data: 28-12-2022 15:05:52 | Usuário: Gustavo | ID: 5 | Deletou um produto:
+Data: 28-12-2022 15:05:57 | Usuário: Gustavo | ID: 5 | Deletou um produto:
+Data: 28-12-2022 15:14:22 | Usuário: Gustavo | ID: 5 | Alterou a senha de um usuário do sistema
+Data: 28-12-2022 15:16:31 | Usuário: Gustavo | ID: 5 | Cadastrou um novo usuário no sistema
+Data: 28-12-2022 15:18:44 | Usuário: Gustavo | ID: 5 | Editou uma conta de usuário
+Data: 28-12-2022 15:18:59 | Usuário: Gustavo | ID: 5 | Editou uma conta de usuário
+Data: 28-12-2022 15:19:07 | Usuário: Gustavo | ID: 5 | Editou uma conta de usuário
+Data: 28-12-2022 15:19:16 | Usuário: Gustavo | ID: 5 | Editou uma conta de usuário
+Data: 28-12-2022 15:19:25 | Usuário: Gustavo | ID: 5 | Editou uma conta de usuário
+Data: 28-12-2022 15:19:30 | Usuário: Gustavo | ID: 5 | Editou uma conta de usuário
+Data: 28-12-2022 15:19:39 | Usuário: Gustavo | ID: 5 | Editou uma conta de usuário
+Data: 28-12-2022 15:20:04 | Usuário: Gustavo | ID: 5 | Alterou a senha de um usuário do sistema
+Data: 28-12-2022 15:20:40 | Usuário: Gustavo | ID: 5 | Deletou um usuário no sistema
+Data: 28-12-2022 16:53:56 | Usuário: Gustavo | ID: 5 | Editou uma conta de usuário
+Data: 28-12-2022 16:53:59 | Usuário: Gustavo | ID: 5 | Editou uma conta de usuário
+Data: 28-12-2022 16:58:00 | Usuário: Gustavo | ID: 5 | Editou uma conta de usuário
+Data: 28-12-2022 16:58:05 | Usuário: Gustavo | ID: 5 | Editou uma conta de usuário
+Data: 28-12-2022 16:58:56 | Usuário: Gustavo | ID: 5 | Editou uma conta de usuário
+Data: 10-01-2023 19:14:51 | Usuário: Name | ID: 1 | Incluiu nova questão ao FAQ:
+Data: 10-01-2023 19:15:01 | Usuário: Name | ID: 1 | Editou uma questão no FAQ:
+Data: 10-01-2023 19:15:04 | Usuário: Name | ID: 1 | Deletou uma questão no FAQ:
+Data: 10-01-2023 19:15:22 | Usuário: Name | ID: 1 | Cadastrou um novo usuário no sistema
+Data: 10-01-2023 19:15:39 | Usuário: Name | ID: 1 | Alterou a senha de um usuário do sistema
+Data: 10-01-2023 19:16:11 | Usuário: xxx | ID: 17 | Editou uma conta de usuário
+Data: 10-01-2023 19:17:05 | Usuário: Name | ID: 1 | Incluiu um novo ramal:
+Data: 10-01-2023 19:17:11 | Usuário: Name | ID: 1 | Alterou um ramal existente:
+Data: 10-01-2023 19:17:12 | Usuário: Name | ID: 1 | Deletou um ramal:
+Data: 10-01-2023 19:17:22 | Usuário: Name | ID: 1 | Inseriu uma nova escala:
+Data: 10-01-2023 19:17:33 | Usuário: Name | ID: 1 | Alterou uma escala existente:
+Data: 10-01-2023 19:17:36 | Usuário: Name | ID: 1 | Deletou uma uma escala:
+Data: 10-01-2023 19:17:46 | Usuário: Name | ID: 1 | Cadastrou um novo contato
+Data: 10-01-2023 19:18:06 | Usuário: Name | ID: 1 | Alterou um contato
+Data: 10-01-2023 19:18:08 | Usuário: Name | ID: 1 | Deletou um contato
+Data: 10-01-2023 19:18:14 | Usuário: Name | ID: 1 | Inseriu um novo projeto:
+Data: 10-01-2023 19:18:20 | Usuário: Name | ID: 1 | Alterou um projeto existente:
+Data: 10-01-2023 19:18:21 | Usuário: Name | ID: 1 | Deletou um projeto:
+Data: 10-01-2023 19:18:36 | Usuário: Name | ID: 1 | Inseriu um novo produto:
+Data: 10-01-2023 19:18:45 | Usuário: Name | ID: 1 | Alterou um produto existente:
+Data: 10-01-2023 19:18:47 | Usuário: Name | ID: 1 | Deletou um produto:
+Data: 10-01-2023 19:19:38 | Usuário: Name | ID: 1 | Alterou com sucesso a senha da sua própria conta
+Data: 10-01-2023 19:21:01 | Usuário: Name | ID: 1 | Cadastrou um novo usuário no sistema
+Data: 10-01-2023 19:27:54 | Usuário: Name | ID: 1 | Inseriu um arquivo CVS com sucesso:
+Data: 10-01-2023 19:28:45 | Usuário: Name | ID: 1 | Inseriu um arquivo CVS com sucesso:
