@@ -72,7 +72,7 @@ To execute the project, it will be necessary to install/use the following applic
 * **Database**: SQL Database (MySQL).
 
 ## Features
-* **Register, edit, delete**: Customers, users, products, contacts, accounts and much more.
+* **Register, Edit and Delete**: Customers, users, products, contacts, accounts and much more.
 * **Control**: User accounts, Inventory, products and general internal corporate information in general.
 * **Import/Export**: CSV files to feed the system with onformation or generate simple reports.
 * **Logs**: Generate simple logs of user's activities into the system.
