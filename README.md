@@ -1,5 +1,5 @@
 # InterSoft
-Web application model I've been developing for the company I'm currently working for...
+This is just a simple web application model I've been developing for a small company that needs to organize and centralize it's information. This is a work in progress...
 
 ## Screenshots
 <table>
@@ -74,7 +74,7 @@ To execute the project, it will be necessary to install/use the following applic
 ## Features
 * **Register, Edit and Delete**: Customers, users, products, contacts, accounts and much more.
 * **Control**: User accounts, Inventory, products and general internal corporate information in general.
-* **Import/Export**: CSV files to feed the system with onformation or generate simple reports.
+* **Import/Export**: Feed the system database with information by importing/exporting CSV files or use this function to generate simple reports.
 * **Logs**: Generate simple logs of user's activities into the system.
 
 ## Credentials (User for testing):
